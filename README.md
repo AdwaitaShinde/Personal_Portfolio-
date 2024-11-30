@@ -1,4 +1,4 @@
-# Codsoft-Task2
+# Personal Portfolio 
 This repository contains a personal portfolio website created using HTML and CSS, ideal for beginners in web development. It showcases my skills, projects, and contact information.
 <br>
 <br>
